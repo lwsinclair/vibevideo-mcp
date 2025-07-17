@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/hyepartners-gmail-vibevideo-mcp-badge.png)](https://mseep.ai/app/hyepartners-gmail-vibevideo-mcp)
+
 # VibeVideo-MCP
 
 ## Overview
